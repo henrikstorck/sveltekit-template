@@ -26,7 +26,7 @@ The setup was configured using the following decisions:
 * Add Prettier for code formatting? **Yes**
 * Add Playwright for browser testing? **Yes**
 
-## Additional features
+## Additional features already included
 
 ### Visual Studio Code Devcontainer
 
@@ -61,3 +61,13 @@ ___
 ### VS Code Debug Configuration
 
 This repository contains a basic Svelte debug configuration in the [launch.json file](/.vscode/launch.json), which starts the svelte development server, opens and attaches to your chrome browser and terminates the development server when the browser is closed or the debug session is stopped.
+
+___
+
+### SCSS Support
+
+Integrated scss support via svelte-add:
+
+```bash
+npx svelte-add@latest scss
+```
