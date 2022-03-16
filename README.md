@@ -6,7 +6,7 @@ This repository contains a basic template for developing web applications with S
 
 Create a repository based on this template using [this link](https://github.com/henrikstorck/sveltekit-template/generate).
 
-Change the project name in the [package.json](package.json#L2:30) file.
+Change the project name in the [package.json](package.json#L2) file.
 
 ## Configuration
 
