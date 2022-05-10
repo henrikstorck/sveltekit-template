@@ -17,7 +17,7 @@
 		"@playwright/test": "1.21.0-alpha-mar-20-2022",
 		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/kit": "next",
-		"@typescript-eslint/eslint-plugin": "^5.22.0",
+		"@typescript-eslint/eslint-plugin": "^5.23.0",
 		"@typescript-eslint/parser": "^5.23.0",
 		"eslint": "^8.15.0",
 		"eslint-config-prettier": "^8.3.0",
